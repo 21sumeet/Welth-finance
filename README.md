@@ -25,7 +25,7 @@
 ## Screenshots
 
 ### Dashboard
-![Dashboard](path/to/dashboard-screenshot.png)  
+![Dashboard](![Image](https://github.com/user-attachments/assets/d4fd485c-6f63-4f2a-a9e9-dc4c1c78f637))  
 *The dashboard provides an overview of your monthly budget, recent transactions, expense breakdown via pie chart, and account balances.*
 
 ### Personal Account Transactions
