@@ -26,7 +26,7 @@ export default function RootLayout({ children }) {
           <footer className="bg-blue-50 py-12">
             <div className="container mx-auto px-4 text-center text-gray-600">
               <p>
-                © 2024 Finance Tracker. All rights reserved. Contact us:
+                © 2025 Finance Tracker. All rights reserved. Contact us:
                 support@financetracker.com | +1 234 567 890 Privacy Policy |
                 Terms of Service | FAQ
               </p>
